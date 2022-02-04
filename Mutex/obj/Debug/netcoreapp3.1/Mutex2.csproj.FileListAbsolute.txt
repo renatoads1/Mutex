@@ -1,0 +1,14 @@
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\bin\Debug\netcoreapp3.1\Mutex2.exe
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\bin\Debug\netcoreapp3.1\Mutex2.deps.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\bin\Debug\netcoreapp3.1\Mutex2.runtimeconfig.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\bin\Debug\netcoreapp3.1\Mutex2.runtimeconfig.dev.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\bin\Debug\netcoreapp3.1\Mutex2.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\bin\Debug\netcoreapp3.1\Mutex2.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\obj\Debug\netcoreapp3.1\Mutex2.csproj.AssemblyReference.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\obj\Debug\netcoreapp3.1\Mutex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\obj\Debug\netcoreapp3.1\Mutex2.AssemblyInfoInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\obj\Debug\netcoreapp3.1\Mutex2.AssemblyInfo.cs
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\obj\Debug\netcoreapp3.1\Mutex2.csproj.CoreCompileInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\obj\Debug\netcoreapp3.1\Mutex2.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\obj\Debug\netcoreapp3.1\Mutex2.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\Mutex\Mutex\obj\Debug\netcoreapp3.1\Mutex2.genruntimeconfig.cache
